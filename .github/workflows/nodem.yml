@@ -17,6 +17,8 @@ jobs:
           node-version: 16.18.1
       - run: npm i
       - run: node main.mjs
+      - run: ls
+      - run: ll
 
   publish-npm:
     needs: build
