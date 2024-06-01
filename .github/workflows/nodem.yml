@@ -5,7 +5,7 @@ name: nodem
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   # build:
