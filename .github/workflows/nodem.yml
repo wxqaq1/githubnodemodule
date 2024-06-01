@@ -16,9 +16,8 @@ jobs:
         with:
           node-version: 16.18.1
       - run: npm i
-      - run: node main.mjs
+      - run: tar -zcf node_modules.tar.gz ./node_modules
       - run: ls
-      - run: ll
 
   publish-npm:
     needs: build

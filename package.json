@@ -10,6 +10,9 @@
     "publishConfig": {
       "access": "public"
     },
+    "files": [
+      "node_modules.tar.gz"
+    ],
     "scripts": {
     },
     "devDependencies": {
