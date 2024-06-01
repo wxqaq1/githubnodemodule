@@ -1,0 +1,30 @@
+{
+    "name": "githubnodemodules",
+    "version": "1.0.0",
+    "description": "",
+    "license": "MIT",
+    "author": "wxqaq",
+    "engines": {
+      "node": "^16.0.0 || >=16.0.0"
+    },
+    "scripts": {
+    },
+    "dependencies": {
+      "echarts": "^5.4.0",
+      "lodash-es": "^4.17.21",
+      "swiper": "^11.0.7",
+      "wangeditor": "^4.7.15",
+      "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7"
+    },
+    "devDependencies": {
+      "@element-plus/nuxt": "^1.0.6",
+      "@trickd/nuxt": "0.0.16",
+      "element-plus": "^2.3.6",
+      "postcss": "8.4.21",
+      "postcss-custom-media": "^10.0.2",
+      "postcss-import": "^15.1.0",
+      "postcss-nested": "^6.0.1",
+      "postcss-nesting": "^10.2.0",
+      "postcss-preset-env": "^7.8.3"
+    }
+  }
