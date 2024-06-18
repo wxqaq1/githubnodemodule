@@ -15,14 +15,16 @@
     ],
     "scripts": {
     },
-    "devDependencies": {
+    "dependencies": {
       "echarts": "^5.4.0",
       "lodash-es": "^4.17.21",
       "swiper": "^11.0.7",
       "wangeditor": "^4.7.15",
-      "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7",
+      "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7"
+    },
+    "devDependencies": {
       "@element-plus/nuxt": "^1.0.6",
-      "@trickd/nuxt": "0.0.16",
+      "@trickd/nuxt": "0.0.19",
       "element-plus": "^2.3.6",
       "postcss": "8.4.21",
       "postcss-custom-media": "^10.0.2",
