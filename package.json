@@ -20,7 +20,7 @@
       "lodash-es": "^4.17.21",
       "swiper": "^11.0.7",
       "wangeditor": "^4.7.15",
-      "nuxt": "^3.9.1",
+      "nuxt": "3.9.1",
       "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7"
     },
     "devDependencies": {
