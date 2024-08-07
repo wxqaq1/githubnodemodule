@@ -1,6 +1,6 @@
 {
     "name": "githubnodemodules",
-    "version": "1.0.24-111",
+    "version": "1.0.26-linux",
     "description": "",
     "license": "MIT",
     "author": "wxqaq",
@@ -15,15 +15,14 @@
     ],
     "scripts": {
     },
-    "dependencies": {
+    "devDependencies": {
       "echarts": "^5.4.0",
       "lodash-es": "^4.17.21",
       "swiper": "^11.0.7",
       "wangeditor": "^4.7.15",
       "nuxt": "3.9.1",
-      "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7"
-    },
-    "devDependencies": {
+      "nuxt-vite-legacy": "^1.2.0",
+      "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7",
       "@element-plus/nuxt": "^1.0.6",
       "@trickd/nuxt": "0.0.24-1",
       "element-plus": "^2.3.6",
