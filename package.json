@@ -1,6 +1,6 @@
 {
     "name": "githubnodemodules",
-    "version": "1.0.27-linux",
+    "version": "1.0.28-linux",
     "description": "",
     "license": "MIT",
     "author": "wxqaq",
@@ -24,7 +24,7 @@
       "nuxt-vite-legacy": "^1.2.0",
       "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7",
       "@element-plus/nuxt": "^1.0.6",
-      "@trickd/nuxt": "0.0.27",
+      "@trickd/nuxt": "0.0.28",
       "element-plus": "^2.3.6",
       "postcss": "8.4.21",
       "postcss-custom-media": "^10.0.2",
