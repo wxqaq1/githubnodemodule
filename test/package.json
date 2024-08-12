@@ -16,7 +16,7 @@
     "scripts": {
     },
     "dependencies": {
-      "githubnodemodules": "1.0.27-linux"
+      "githubnodemodules": "1.0.28-linux"
     },
     "devDependencies": {
     }
